@@ -150,5 +150,29 @@
         "source": "faq",
         "confidence": 1.0,
         "session_id": "55ab92cd-4382-40a0-82b3-0df4251473f2"
+    },
+    {
+        "timestamp": "2025-12-30T10:21:04.548646",
+        "query": "What can you do?",
+        "answer": "Je peux vous aider avec plusieurs t\u00e2ches :\n\n- Traduire du contenu de langue \u00e0 langue\n- R\u00e9pondre \u00e0 des questions sur divers sujets, tels que la technologie, la g\u00e9ographie, l'histoire, et plus encore\n- G\u00e9n\u00e9rer du texte, comme des articles, des r\u00e9sum\u00e9s ou des emails\n- Pr\u00e9parer des pr\u00e9sentations et des rapports\n- Aider \u00e0 l'apprentissage de la langue et \u00e0 l'am\u00e9lioration de la grammaire\n- Fournir des conseils sur les sujets vari\u00e9s, tels que la vie quotidienne, la saine alimentation, le bien-\u00eatre, etc.\n- R\u00e9soudre des probl\u00e8mes math\u00e9matiques ou scientifiques\n- Offrir des suggestions de recherche ou de lecture\n\nPouvez-vous me dire dans quelle langue vous pr\u00e9f\u00e9rez que je r\u00e9ponde ?",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "2acdda94-997d-4501-aca4-a843eae3e0ef"
+    },
+    {
+        "timestamp": "2025-12-30T10:28:54.639897",
+        "query": "Pricing Plans",
+        "answer": "**Pricing Plans**\n\nNuestra empresa ofrece diferentes planes de precios para adaptarse a las necesidades de cada cliente. Los planes se dividen en tres categor\u00edas principales:\n\n1. **Plan Est\u00e1ndar**\n * Precio: $29,99/mes\n * Caracter\u00edsticas:\n + 5 GB de almacenamiento\n + 10 GB de transferencia de datos por mes\n + Soporte t\u00e9cnico en l\u00ednea\n + Acceso a nuestras herramientas de marketing\n2. **Plan Premium**\n * Precio: $49,99/mes\n * Caracter\u00edsticas:\n + 20 GB de almacenamiento\n + 20 GB de transferencia de datos por mes\n + Soporte t\u00e9cnico en l\u00ednea 24/7\n + Acceso a nuestras herramientas de marketing avanzadas\n + Monitoreo y an\u00e1lisis de rendimiento\n3. **Plan Empresarial**\n * Precio: $99,99/mes\n * Caracter\u00edsticas:\n + 50 GB de almacenamiento\n + 50 GB de transferencia de datos por mes\n + Soporte t\u00e9cnico en l\u00ednea 24/7\n + Acceso a nuestras herramientas de marketing avanzadas\n + Monitoreo y an\u00e1lisis de rendimiento personalizados\n + Integraci\u00f3n con herramientas terceras partes\n\nSi tiene alguna pregunta o desea una cita para discutir su necesidades espec\u00edficas, por favor no dude en hac\u00e9rmelo saber.",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "c45f65bd-f0b1-4d3a-9b80-becfc2a70efc"
+    },
+    {
+        "timestamp": "2025-12-30T10:28:58.136865",
+        "query": "english",
+        "answer": "**Pricing Plans**\n\nOur company offers various pricing plans to cater to the needs of each customer. The plans are divided into three main categories:\n\n1. **Standard Plan**\n * Price: $29.99/month\n * Features:\n + 5 GB of storage\n + 10 GB of data transfer per month\n + Online technical support\n + Access to our marketing tools\n2. **Premium Plan**\n * Price: $49.99/month\n * Features:\n + 20 GB of storage\n + 20 GB of data transfer per month\n + Online technical support 24/7\n + Access to advanced marketing tools\n + Performance monitoring and analysis\n3. **Enterprise Plan**\n * Price: $99.99/month\n * Features:\n + 50 GB of storage\n + 50 GB of data transfer per month\n + Online technical support 24/7\n + Access to advanced marketing tools\n + Customized performance monitoring and analysis\n + Integration with third-party tools\n\nIf you have any questions or would like a consultation to discuss your specific needs, please feel free to let me know.",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "c45f65bd-f0b1-4d3a-9b80-becfc2a70efc"
     }
 ]
