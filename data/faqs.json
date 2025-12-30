@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "question": "What is this chatbot?",
+        "answer": "This is an AI-powered FAQ chatbot built with Flask and NLP."
+    },
+    {
+        "id": "2",
+        "question": "How does it work?",
+        "answer": "It uses TF-IDF vectorization and cosine similarity to find the best match for your questions."
+    },
+    {
+        "id": "3",
+        "question": "Who created this?",
+        "answer": "This project was developed as a demonstration of AI-powered web applications."
+    },
+    {
+        "id": "b33c9322-0ab4-43bf-bb1c-5c72ce647421",
+        "question": "hi",
+        "answer": "Hi how can i help You "
+    },
+    {
+        "id": "b7a282fc-1f4b-4ea7-a95f-30d9a29510ef",
+        "question": "What is this project about?",
+        "answer": "This is an AI-based FAQ chatbot that answers user queries using NLP techniques.\n"
+    },
+    {
+        "id": "2773421b-a935-4529-9cf0-9d836f5b0765",
+        "question": "What technologies are used?",
+        "answer": "Python, Flask, NLP, TF-IDF, Machine Learning"
+    },
+    {
+        "id": "aee0a499-fcb3-4c38-a893-52b260ba276d",
+        "question": "How does the chatbot work?",
+        "answer": "It matches user questions with trained data using NLP similarity."
+    },
+    {
+        "id": "62968b71-8a74-4190-bcbb-e0a3b167d3bb",
+        "question": "What is this project about?",
+        "answer": "This is an AI-based FAQ chatbot that answers user queries using NLP techniques.\n"
+    },
+    {
+        "id": "438c5a3c-85a5-43c5-a00b-eb1e003de957",
+        "question": "hello",
+        "answer": "Hello How can I Help You"
+    }
+]

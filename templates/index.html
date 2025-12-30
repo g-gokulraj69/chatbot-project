@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexus AI | Enterprise Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body style="background-color: var(--bg-main);">
+    <div class="chat-container">
+        <header class="chat-header">
+            <div style="display: flex; align-items: center; gap: 0.75rem;">
+                <div style="width: 2.5rem; height: 2.5rem; background: var(--primary); border-radius: 0.75rem; display: flex; align-items: center; justify-content: center; color: white;">
+                    <i data-lucide="bot" style="width: 1.5rem; height: 1.5rem;"></i>
+                </div>
+                <div>
+                    <h1 style="font-size: 1.125rem; font-weight: 700; color: var(--text-main); margin: 0;">Nexus AI</h1>
+                    <div style="display: flex; align-items: center; gap: 0.375rem; font-size: 0.75rem; color: var(--success); font-weight: 600;">
+                        <span style="width: 8px; height: 8px; background: currentColor; border-radius: 50%;"></span>
+                        Online
+                    </div>
+                </div>
+            </div>
+            <div style="display: flex; gap: 0.75rem;">
+                <a href="/admin" class="btn btn-secondary" style="padding: 0.5rem 1rem;">
+                    <i data-lucide="layout-dashboard" style="width: 1rem; height: 1rem;"></i>
+                    <span class="desktop-only">Admin Portal</span>
+                </a>
+            </div>
+        </header>
+
+        <main id="chat-box" class="chat-box">
+            <div class="message-wrapper bot">
+                <div class="message">
+                    👋 Welcome to Nexus. I am your multilingual AI assistant. How can I help you today?
+                </div>
+                <div class="message-info">
+                    Just now
+                </div>
+            </div>
+        </main>
+
+        <footer style="padding: 1.5rem; background: white; border-top: 1px solid var(--border);">
+            <div class="quick-replies" style="display: flex; gap: 0.75rem; margin-bottom: 1.25rem; overflow-x: auto; padding-bottom: 0.5rem;">
+                <button class="reply-btn btn btn-secondary" style="white-space: nowrap;">What can you do?</button>
+                <button class="reply-btn btn btn-secondary" style="white-space: nowrap;">Pricing Plans</button>
+                <button class="reply-btn btn btn-secondary" style="white-space: nowrap;">Technical Support</button>
+            </div>
+            
+            <div style="display: flex; gap: 0.75rem; align-items: flex-end;">
+                <div style="flex: 1; position: relative;">
+                    <div id="voice-status">
+                        <span class="dot" style="background: white; width: 8px; height: 8px;"></span>
+                        Listening...
+                    </div>
+                    <input type="text" id="user-input" class="input" placeholder="Ask me anything..." autocomplete="off" style="padding-right: 3rem;">
+                    <button id="voice-btn" class="btn-voice" title="Voice Input" style="position: absolute; right: 0.75rem; top: 50%; transform: translateY(-50%); border: none; background: none; color: var(--text-muted); cursor: pointer; padding: 0.5rem; transition: var(--transition); border-radius: 0.5rem; display: flex; align-items: center; justify-content: center;">
+                        <i data-lucide="mic" style="width: 1.25rem; height: 1.25rem;"></i>
+                    </button>
+                </div>
+                <button id="send-btn" class="btn btn-primary" style="height: 46px; width: 46px; padding: 0;">
+                    <i data-lucide="send" style="width: 1.25rem; height: 1.25rem;"></i>
+                </button>
+            </div>
+            <p style="font-size: 0.75rem; color: var(--text-muted); text-align: center; margin-top: 1rem;">
+                Powered by LLaMA3-8b & Groq API
+            </p>
+        </footer>
+    </div>
+
+    <style>
+        .desktop-only { display: inline; }
+        @media (max-width: 640px) {
+            .desktop-only { display: none; }
+        }
+        
+        /* Custom scrollbar */
+        .chat-box::-webkit-scrollbar { width: 6px; }
+        .chat-box::-webkit-scrollbar-track { background: transparent; }
+        .chat-box::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
+        .chat-box::-webkit-scrollbar-thumb:hover { background: #cbd5e1; }
+    </style>
+
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

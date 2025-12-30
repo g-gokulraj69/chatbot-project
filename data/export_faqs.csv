@@ -1,0 +1,12 @@
+question,answer
+What is this chatbot?,This is an AI-powered FAQ chatbot built with Flask and NLP.
+How does it work?,It uses TF-IDF vectorization and cosine similarity to find the best match for your questions.
+Who created this?,This project was developed as a demonstration of AI-powered web applications.
+hi,Hi how can i help You 
+What is this project about?,"This is an AI-based FAQ chatbot that answers user queries using NLP techniques.
+"
+What technologies are used?,"Python, Flask, NLP, TF-IDF, Machine Learning"
+How does the chatbot work?,It matches user questions with trained data using NLP similarity.
+What is this project about?,"This is an AI-based FAQ chatbot that answers user queries using NLP techniques.
+"
+hello,Hello How can I Help You

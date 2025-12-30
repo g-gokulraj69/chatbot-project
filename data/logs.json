@@ -1,0 +1,154 @@
+[
+    {
+        "timestamp": "2025-12-30T08:44:26.217926",
+        "query": "hi",
+        "answer": "Hi how can i help You ",
+        "source": "faq",
+        "confidence": 1.0,
+        "session_id": "49899344-568b-4434-99f0-36894737224b"
+    },
+    {
+        "timestamp": "2025-12-30T08:44:45.302546",
+        "query": "Multi-language",
+        "answer": "Bonjour, je suis pr\u00eat \u00e0 discuter. Quel est votre langue pr\u00e9f\u00e9r\u00e9e ? (Hello, I'm ready to chat. What's your preferred language?)",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "49899344-568b-4434-99f0-36894737224b"
+    },
+    {
+        "timestamp": "2025-12-30T08:44:51.831538",
+        "query": "Technical Support",
+        "answer": "Soutien technique, d'accord. Quel est le probl\u00e8me que vous rencontrez ? (Technical support, okay. What's the problem you're facing?)",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "49899344-568b-4434-99f0-36894737224b"
+    },
+    {
+        "timestamp": "2025-12-30T08:45:00.862113",
+        "query": "Pricing Plans",
+        "answer": "Plans de tarification. Nous proposons plusieurs options. Qu'appelez-vous votre utilisation ? (Pricing plans. We offer several options. What do you call your usage?)\n\n - \u00c9tudiant\n - Particulier\n - Entreprise",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "49899344-568b-4434-99f0-36894737224b"
+    },
+    {
+        "timestamp": "2025-12-30T08:45:03.200338",
+        "query": "What can you do?",
+        "answer": "Je peux faire plusieurs choses. Voici quelques exemples :\n\n- R\u00e9pondre \u00e0 des questions en fran\u00e7ais, en anglais et dans d'autres langues\n- Proposer des solutions \u00e0 des probl\u00e8mes techniques\n- Donner des informations sur les produits et les services\n- Traduire du texte de texte\n- G\u00e9n\u00e9rer du texte en fonction d'un sujet et d'un style sp\u00e9cifiques\n- Fournir des d\u00e9finitions de mots et d'expressions\n- Et beaucoup d'autres choses encore... (I can do several things. Here are some examples:\n\n- Answer questions in French, English, and other languages\n- Provide solutions to technical problems\n- Give information about products and services\n- Translate text\n- Generate text based on a subject and style\n- Provide definitions of words and expressions\n- And much more...)",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "49899344-568b-4434-99f0-36894737224b"
+    },
+    {
+        "timestamp": "2025-12-30T08:53:09.271680",
+        "query": "hi",
+        "answer": "Hi how can i help You ",
+        "source": "faq",
+        "confidence": 1.0,
+        "session_id": "c9443960-52b1-4260-85c2-14df3f31203b"
+    },
+    {
+        "timestamp": "2025-12-30T08:53:22.435075",
+        "query": "learn enhlish",
+        "answer": "Vous voulez apprendre l'anglais ? \n\n(You want to learn English?)\n\nJe suis l\u00e0 pour vous aider. Quelles parties de l'anglais souhaitez-vous d\u00e9velopper :\n\n- La grammaire ?\n- La compr\u00e9hension orale ?\n- La production \u00e9crite ?\n- Les vocabulaires ?",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "c9443960-52b1-4260-85c2-14df3f31203b"
+    },
+    {
+        "timestamp": "2025-12-30T08:53:42.868660",
+        "query": "talk in english",
+        "answer": "Let's get started.\n\nTo learn English, I can assist you with:\n\n- Grammar\n- Listening comprehension\n- Writing skills\n- Vocabulary building\n\nWhat would you like to focus on first?",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "c9443960-52b1-4260-85c2-14df3f31203b"
+    },
+    {
+        "timestamp": "2025-12-30T08:53:50.951556",
+        "query": "in tamil",
+        "answer": "\u0bb5\u0ba3\u0b95\u0bcd\u0b95\u0bae\u0bcd!\n\n\u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b86\u0b99\u0bcd\u0b95\u0bbf\u0bb2\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bc1\u0bae\u0bbe? \u0baa\u0b9f\u0bbf\u0b95\u0bcd\u0b95 \u0bb5\u0bbf\u0bb0\u0bc1\u0bae\u0bcd\u0baa\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0b99\u0bcd\u0b95\u0bb3\u0bc8\u0b9a\u0bcd \u0b9a\u0bc1\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd:\n\n\u0b87\u0bb2\u0b95\u0bcd\u0b95\u0ba3\u0bae\u0bcd\n\u0b95\u0bc7\u0b9f\u0bcd\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf\u0bb1\u0ba9\u0bcd\n\u0b8e\u0bb4\u0bc1\u0ba4\u0bc1\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0ba9 \u0ba4\u0bbf\u0bb1\u0ba9\u0bcd\n\u0b85\u0b95\u0bb0\u0bbe\u0ba4\u0bbf",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "c9443960-52b1-4260-85c2-14df3f31203b"
+    },
+    {
+        "timestamp": "2025-12-30T08:53:54.340521",
+        "query": "good",
+        "answer": "\u0ba8\u0ba9\u0bcd\u0bb1\u0bbf!\n\n \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b87\u0baa\u0bcd\u0baa\u0bcb\u0ba4\u0bc1 \u0b9a\u0bbf\u0bb2 \u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf\u0b95\u0bb3\u0bc8 \u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb5\u0bc0\u0bb0\u0bcd\u0b95\u0bb3\u0bbe?\n\n1. \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0b95\u0bb2\u0bc8\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0bb1\u0bcd\u0bb1\u0bbf \u0b89\u0bb0\u0bc8\u0baf\u0bbe\u0b9f\u0bb2\u0bcd\n2. \u0b87\u0b9f\u0bae\u0bcd, \u0ba8\u0bc7\u0bb0\u0bae\u0bcd, \u0b95\u0bbe\u0bb2\u0bae\u0bcd \u0b9a\u0bbe\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4 \u0b9a\u0bca\u0bb1\u0bcd\u0b95\u0bb3\u0bc8 10 \u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bcd \u0b8e\u0bb4\u0bc1\u0ba4\u0bc1\n\n\u0b8f\u0bb1\u0bcd\u0bb1\u0ba4\u0bc1\u0bae\u0bcd \u0b85\u0bb2\u0bcd\u0bb2\u0ba4\u0bc1 \u0bae\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0b9f\u0bbf \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\u0bc1\u0b99\u0bcd\u0b95\u0bb3\u0bcd.",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "c9443960-52b1-4260-85c2-14df3f31203b"
+    },
+    {
+        "timestamp": "2025-12-30T08:54:29.962461",
+        "query": "now english give some communication tips",
+        "answer": "Here are some effective communication tips:\n\n1. **Active Listening**: Pay attention to the speaker, maintain eye contact, and clarify any doubts. This will help you understand the message correctly and respond appropriately.\n2. **Be Clear and Concise**: Communicate your ideas and thoughts clearly and concisely. Avoid using jargon or complex language that might confuse the listener.\n3. **Use Non-Verbal Cues**: Facial expressions, body language, and tone of voice can convey a lot of information. Use them to show enthusiasm, empathy, or authority.\n4. **Ask Open-Ended Questions**: Encourage the speaker to share their thoughts and feelings by asking open-ended questions that can't be answered with a simple \"yes\" or \"no\".\n5. **Show Empathy**: Put yourself in the speaker's shoes and try to understand their perspective. Show that you care about their feelings and concerns.\n6. **Be Aware of Cultural Differences**: Communication styles can vary across cultures. Be sensitive to these differences and adapt your communication style accordingly.\n7. **Avoid Distractions**: Eliminate distractions like phones, laptops, or background noise that can disrupt the communication process.\n8. **Provide Feedback**: Give constructive feedback that is specific, timely, and respectful. This will help the speaker understand what they need to improve.\n9. **Use Positive Language**: Frame your message positively by focusing on solutions rather than problems.\n10. **Practice Mindfulness**: Be present in the conversation and focus on the speaker. Avoid multitasking or daydreaming.\n\nRemember, effective communication is a two-way process. Listen actively, speak clearly, and build trust to achieve success in both personal and professional relationships.\n\nDo you have any specific area of communication you'd like me to focus on?",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "c9443960-52b1-4260-85c2-14df3f31203b"
+    },
+    {
+        "timestamp": "2025-12-30T08:56:33.928175",
+        "query": "hi",
+        "answer": "Hi how can i help You ",
+        "source": "faq",
+        "confidence": 1.0,
+        "session_id": "2c4bf2ca-b4e8-411e-a422-3fa2f3fa5394"
+    },
+    {
+        "timestamp": "2025-12-30T08:56:42.587349",
+        "query": "what is ai",
+        "answer": "L'AI (Artificial Intelligence) est une technologie qui permet aux machines de simuler l'intelligence humaine. Elle comprend plusieurs sous-domaines tels que l'apprentissage automatique, l'intelligence/artificielle distribu\u00e9e et l'inf\u00e9rence.\n\nL'AI est capable de r\u00e9aliser diverses t\u00e2ches telles que la reconnaissance d'images, la reconnaissance de la parole, l'analyse de donn\u00e9es et la prise de d\u00e9cision. Les applications de l'AI sont tr\u00e8s vastes et se trouvent dans de nombreux domaines tels que la sant\u00e9, la finance, l'automotive et bien d'autres.",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "2c4bf2ca-b4e8-411e-a422-3fa2f3fa5394"
+    },
+    {
+        "timestamp": "2025-12-30T08:56:51.788222",
+        "query": "in english",
+        "answer": "Artificial Intelligence (AI) is a technology that enables machines to simulate human intelligence. It encompasses several subfields such as machine learning, distributed artificial intelligence, and inference.\n\nAI is capable of performing various tasks such as image recognition, speech recognition, data analysis, and decision-making. The applications of AI are very wide-ranging and can be found in numerous domains such as healthcare, finance, automotive, and many others.\n\nWould you like to know more about a specific aspect of AI?",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "2c4bf2ca-b4e8-411e-a422-3fa2f3fa5394"
+    },
+    {
+        "timestamp": "2025-12-30T08:57:17.670939",
+        "query": "Pricing Plans",
+        "answer": "Our pricing plans are designed to suit various needs and budgets. We offer different tiers of service, each with its own set of features and benefits.\n\n**Basic Plan**\n\n- 10,000 conversations per month\n- Limited access to our AI assistant\n- Suitable for small businesses or personal use\n\n**Premium Plan**\n\n- 50,000 conversations per month\n- Priority access to our AI assistant\n- Enhanced features for business use\n- $100 per month\n\n**Enterprise Plan**\n\n- Unlimited conversations per month\n- Dedicated AI assistant\n- Advanced features for large businesses\n- Custom pricing based on individual needs\n\nDo any of these plans appeal to you, or would you like to know more about our pricing options?",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "2c4bf2ca-b4e8-411e-a422-3fa2f3fa5394"
+    },
+    {
+        "timestamp": "2025-12-30T08:57:32.558270",
+        "query": "how many language can you speak",
+        "answer": "Je peux communiquer en plus de 100 langues, dont :\n\n- Fran\u00e7ais\n- Anglais\n- Espagnol\n- Portugais\n- Italien\n- Allemand\n- Chinois\n- Japonais\n- Cor\u00e9en\n- Arabe\n- Russie\n- hindi\n\nVoici une liste non-exhaustive des langues que je peux comprendre et g\u00e9n\u00e9rer du texte :\n\n* Langues europ\u00e9ennes : fran\u00e7ais, anglais, espagnol, portugais, italien, allemand, n\u00e9erlandais, su\u00e9dois, norv\u00e9gien, danois, finnois, grec, turc, etc.\n* Langues asiatiques : chinois, japonais, cor\u00e9en, hindi, tha\u00ef, vietnamien, cambodgien, mongol, etc.\n* Langues africaines : arabe, swahili, zoulou, xhosa, yoruba, wolof, tigrigna, etc.\n* Langues sud-am\u00e9ricaines : espagnol, portugais, quechua, aimara, tucano, etc.\n* Langues oc\u00e9aniennes : tahitien, maori, hawa\u00efen, etc.\n\nJe suis capable de comprendre et de communiquer dans ces langues, mais certaines langues sont plus rares que d'autres et il est possible que je ne comprenne pas tout le temps.",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "2c4bf2ca-b4e8-411e-a422-3fa2f3fa5394"
+    },
+    {
+        "timestamp": "2025-12-30T08:57:49.253679",
+        "query": "do you know tamil",
+        "answer": "\u0ba8\u0bbe\u0ba9\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0bca\u0bb4\u0bbf\u0baf\u0bc8 \u0baa\u0bc1\u0bb0\u0bbf\u0ba8\u0bcd\u0ba4\u0bc1 \u0b95\u0bca\u0bb3\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd. \u0ba8\u0bbe\u0ba9\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b87\u0bb2\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0b99\u0bcd\u0b95\u0bb3\u0bcd, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0ba4\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb3\u0bcd\u0b95\u0bb3\u0bcd, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bb5\u0bbe\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc8\u0b95\u0bb3\u0bc8 \u0ba4\u0bb0\u0bc1\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd.",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "2c4bf2ca-b4e8-411e-a422-3fa2f3fa5394"
+    },
+    {
+        "timestamp": "2025-12-30T08:57:59.225013",
+        "query": "wow",
+        "answer": "\u0b86\u0bae\u0bbe! \u0ba8\u0bbe\u0ba9\u0bcd \u0b9a\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b85\u0bb1\u0bbf\u0bb5\u0bc1 \u0b95\u0bca\u0ba3\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0bc7\u0ba9\u0bcd. \u0b86\u0ba9\u0bbe\u0bb2\u0bcd, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b86\u0baf\u0bcd\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0b95  \u0b85\u0bb2\u0bcd\u0bb2, \u0b85\u0ba4\u0bc1 \u0bae\u0bbf\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0bb0\u0b95\u0b9a\u0bbf\u0baf\u0bae\u0bbe\u0ba9\u0ba4\u0bc1. \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9\u0bc8 \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bca\u0bb4\u0bbf\u0baf\u0bbe\u0b95 \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bb2\u0bbe\u0bae\u0bcd, \u0ba8\u0bbe\u0ba9\u0bcd \u0b89\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bbe\u0ba9  \u0b89\u0ba4\u0bb5\u0bbf\u0baf\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0ba9\u0bcd.",
+        "source": "ai",
+        "confidence": 0.0,
+        "session_id": "2c4bf2ca-b4e8-411e-a422-3fa2f3fa5394"
+    },
+    {
+        "timestamp": "2025-12-30T09:00:19.756802",
+        "query": "Hi",
+        "answer": "Hi how can i help You ",
+        "source": "faq",
+        "confidence": 1.0,
+        "session_id": "55ab92cd-4382-40a0-82b3-0df4251473f2"
+    }
+]

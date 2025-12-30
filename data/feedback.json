@@ -1,0 +1,47 @@
+[
+    {
+        "timestamp": "2025-12-30T08:44:33.177732",
+        "query": "Hi how can i help You ",
+        "is_positive": true
+    },
+    {
+        "timestamp": "2025-12-30T09:07:42.564812",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    },
+    {
+        "timestamp": "2025-12-30T09:07:45.185624",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    },
+    {
+        "timestamp": "2025-12-30T09:07:45.403887",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    },
+    {
+        "timestamp": "2025-12-30T09:07:45.985208",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    },
+    {
+        "timestamp": "2025-12-30T09:07:46.215324",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    },
+    {
+        "timestamp": "2025-12-30T09:07:46.879792",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    },
+    {
+        "timestamp": "2025-12-30T09:07:47.161110",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    },
+    {
+        "timestamp": "2025-12-30T09:07:47.378918",
+        "query": "Microphone permission denied.",
+        "is_positive": false
+    }
+]
